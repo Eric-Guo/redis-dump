@@ -10,5 +10,5 @@ gem "yajl-ruby", ">= 1.4.3"
 
 gem "pry-byebug", "~> 3.11", require: false, group: :development
 gem "rake", "~> 13.2", require: false, group: :development
-gem "rubocop", "~> 1.72.2", require: false, group: :development
-gem "tryouts", "~> 2.4.1", require: false, group: :development
+gem "rubocop", "~> 1.80.2", require: false, group: :development
+gem "tryouts", "~> 3.6.0", require: false, group: :development
